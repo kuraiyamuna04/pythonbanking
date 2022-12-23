@@ -1,0 +1,11 @@
+deposited ${amount}
+withdrew ${amount}
+deposited 160.0
+withdrew 40.0deposited 160.0
+ total Balance: 260.0withdrew 40.0
+ total Balance: 220.0deposited 160.0
+ total Balance: 260.0
+withdrew 40.0
+ total Balance: 220.0
+withdrew 500.0			 total Balance: -400.0
+deposited 2000.0			 total Balance: 2100.0
